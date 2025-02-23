@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Zubair Pathan</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Developer  and Cloud Practioner (AWS) from India</h3>
 <img align="right" alt = "Coding" width = "400" src = "https://cdn3.iconfinder.com/data/icons/cloud-computing-10/112/18-cloud-computing_cloud-personal-computer-programming-coding-wireless-connection-512.png">
 
 
