@@ -1,12 +1,12 @@
 
 <h1 align="center">Hi 👋, I'm Zubair Pathan</h1>
-<h3 align="center">A passionate Developer  and Cloud Practioner (AWS) from India</h3>
+<h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt = "Coding" width = "400" src = "https://cdn3.iconfinder.com/data/icons/cloud-computing-10/112/18-cloud-computing_cloud-personal-computer-programming-coding-wireless-connection-512.png">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pathanzubair&label=Profile%20views&color=0e75b6&style=flat" alt="pathanzubair" /> </p>
 
-<!--<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pathanzubair" alt="pathanzubair" /></a> </p>-->
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pathanzubair" alt="pathanzubair" /></a> </p>
 
 - 🔭 I’m currently working on **Airline Management System**
 
